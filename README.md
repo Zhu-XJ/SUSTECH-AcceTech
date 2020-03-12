@@ -35,6 +35,13 @@ The main applications are focusing on HPC (high performance computing), NAS (neu
 
 ### NAS
 + 2019 | HAQ: Hardware-Aware Automated Quantization with Mixed Precision | Song Han Group | CVPR | [`PDF`](https://arxiv.org/pdf/1811.08886.pdf)
++ 2019 | ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware | Song Han Group | ICLR | [`PDF`](https://arxiv.org/pdf/1812.00332.pdf)
++ 2019 | Mixed Precision Neural Architecture Search for Energy Efficient Deep Learning | Chengyue Gong, et al | ICCAD | [link](https://www.researchgate.net/publication/337821437_Mixed_Precision_Neural_Architecture_Search_for_Energy_Efficient_Deep_Learning)
++ 2019 | Neural Architecture Search: A Survey | Thomas Elsken, et al. | [`PDF`](https://arxiv.org/pdf/1808.05377v2.pdf)
++ 2019 | DARTS: Differentiable Architecture Search | Hanxiao Liu, et al. | ICLR | [`PDF`](https://arxiv.org/pdf/1806.09055.pdf)
++ 2019 | PC-DARTS: Partial Channel Connections for Memory-Efficient Differentiable Architecture Search | Hanxiao Liu, et al. | [`PDF`](https://arxiv.org/pdf/1907.05737v1.pdf)
++ 2019 | FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search | Bichen Wu, et al. | [`PDF`](https://arxiv.org/pdf/1812.03443v1.pdf)
++ 2017 | Neural Architecture Search with Reinforcement Learning | Google Group | ICLR | [`PDF`](https://arxiv.org/pdf/1611.01578v2.pdf)
 
 
 # Hardware implementation
